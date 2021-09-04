@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ajayjayapalan.github.io/csb-gwu3e/static/css/main.1a8b8ffb.chunk.css",
+    "main.js": "https://ajayjayapalan.github.io/csb-gwu3e/static/js/main.38bda193.chunk.js",
+    "main.js.map": "https://ajayjayapalan.github.io/csb-gwu3e/static/js/main.38bda193.chunk.js.map",
+    "runtime-main.js": "https://ajayjayapalan.github.io/csb-gwu3e/static/js/runtime-main.7e76826a.js",
+    "runtime-main.js.map": "https://ajayjayapalan.github.io/csb-gwu3e/static/js/runtime-main.7e76826a.js.map",
+    "static/js/2.462e3ef1.chunk.js": "https://ajayjayapalan.github.io/csb-gwu3e/static/js/2.462e3ef1.chunk.js",
+    "static/js/2.462e3ef1.chunk.js.map": "https://ajayjayapalan.github.io/csb-gwu3e/static/js/2.462e3ef1.chunk.js.map",
+    "index.html": "https://ajayjayapalan.github.io/csb-gwu3e/index.html",
+    "static/css/main.1a8b8ffb.chunk.css.map": "https://ajayjayapalan.github.io/csb-gwu3e/static/css/main.1a8b8ffb.chunk.css.map",
+    "static/js/2.462e3ef1.chunk.js.LICENSE.txt": "https://ajayjayapalan.github.io/csb-gwu3e/static/js/2.462e3ef1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e76826a.js",
+    "static/js/2.462e3ef1.chunk.js",
+    "static/css/main.1a8b8ffb.chunk.css",
+    "static/js/main.38bda193.chunk.js"
+  ]
+}
